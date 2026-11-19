@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "790049733006",
+    "project_id": "minhaloja-fa1dd",
+    "storage_bucket": "minhaloja-fa1dd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790049733006:android:69751fd3672efcb9d30cdf",
+        "android_client_info": {
+          "package_name": "br.unisanta.analarissa.minhaloja"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARYqvnydPAkaBNtY6Zum7qlopFqpPodUk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
